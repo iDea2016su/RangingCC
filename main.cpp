@@ -4,6 +4,7 @@
 #include "RangingCorrection.h"
 
 using namespace std;
+using namespace Sx1280RangingCorrection;
 
 
 int main(int argc, char const *argv[])

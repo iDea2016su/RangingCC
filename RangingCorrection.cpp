@@ -18,6 +18,7 @@
 #include "rangingCorrectionSF8BW1600.h"
 #include "rangingCorrectionSF9BW1600.h"
 #include "rangingCorrectionSF10BW1600.h"
+using namespace Sx1280RangingCorrection
 
 const double* RangingCorrectionPerSfBwGain[6][3] = {
     { &RangingCorrectionSF5BW0400[0],  &RangingCorrectionSF5BW0800[0],  &RangingCorrectionSF5BW1600[0] },
